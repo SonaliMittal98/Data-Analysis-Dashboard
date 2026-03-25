@@ -2,10 +2,10 @@
 ## 🎯Project Objective
 The objective of this project is to transforms raw sales data into meaningful insights and build a dynamic dashboard that provides clear visibility into revenue, product performance, and profitability, helping users make informed business decisions. 
 
-## Dataset used
+## ⚙️Dataset used
 - <a href="https://github.com/SonaliMittal98/Data-Analysis-Dashboard/blob/main/Sales%20Data%20Analysis.xlsx">Dataset</a>
 
-## Business Questions
+## 🚀Business Questions
 -	What is the total revenue generated, and how does profit % vary across products?
 -	Are sales increasing or decreasing month-over-month?
 -	What is the revenue contribution percentage of each product?
@@ -15,9 +15,9 @@ The objective of this project is to transforms raw sales data into meaningful in
 -	Which products should be promoted more?
 -	How can users quickly compare performance across products and identify key business opportunities using interactive visuals?
 
-- Dashboard Interaction <a href="https://github.com/SonaliMittal98/Data-Analysis-Dashboard/blob/main/Sales_Dashboard_Demo.mp4">View Dashboard</a>
+- 🎥Dashboard Interaction <a href="https://github.com/SonaliMittal98/Data-Analysis-Dashboard/blob/main/Sales_Dashboard_Demo.mp4">View Dashboard</a>
 
-## Process
+## 📈Process
 -	Performed end-to-end data analysis including data cleaning, transformation, and formatting to ensure accuracy and consistency of sales data
 -	Built interactive Pivot Tables to summarize large datasets and extract key performance insights
 -	Applied advanced Excel formulas such as VLOOKUP, INDEX, IF, and IFERROR for data lookup, validation, and error handling
@@ -27,11 +27,11 @@ The objective of this project is to transforms raw sales data into meaningful in
 -	Developed a visually appealing dashboard layout by integrating design elements from PowerPoint into Excel for enhanced user experience
 -	Generated actionable insights on sales trends, product performance, and profitability to support data-driven decision-making
 
-## Dashboard
+## 📊Dashboard
 
 <img width="1454" height="798" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/1fcad9c4-b0f2-499f-9e60-2560eebe8f80" />
 
-## Project Insights
+## 📌Project Insights
 -	The business generated $401,412 in total sales with a total profit of $68,908, resulting in an overall profit margin of 21% 
 -	The profit margin remains relatively stable across months, mostly ranging between 17%–25%, indicating consistent profitability
 -	Direct Sales dominate (52%), followed by Online (33%) and Wholesaler (15%). This suggests the business is highly dependent on direct selling, with potential to expand online or wholesale channels to reduce dependency.
