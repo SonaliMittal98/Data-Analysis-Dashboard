@@ -29,3 +29,5 @@ The objective of this project is to transforms raw sales data into meaningful in
 
 ## Dashboard
 
+<img width="1454" height="798" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/1fcad9c4-b0f2-499f-9e60-2560eebe8f80" />
+
