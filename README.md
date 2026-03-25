@@ -15,7 +15,7 @@ The objective of this project is to transforms raw sales data into meaningful in
 -	Which products should be promoted more?
 -	How can users quickly compare performance across products and identify key business opportunities using interactive visuals?
 
--Dashboard Interaction <a href="https://github.com/SonaliMittal98/Data-Analysis-Dashboard/blob/main/Sales_Dashboard_Demo.mp4">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/SonaliMittal98/Data-Analysis-Dashboard/blob/main/Sales_Dashboard_Demo.mp4">View Dashboard</a>
 
 ## Process
 -	Performed end-to-end data analysis including data cleaning, transformation, and formatting to ensure accuracy and consistency of sales data
@@ -26,12 +26,6 @@ The objective of this project is to transforms raw sales data into meaningful in
 -	Created multiple data visualizations (area chart, stacked column chart, clustered bar chart, treemap and pie charts) to present trends, comparisons, and performance metrics effectively
 -	Developed a visually appealing dashboard layout by integrating design elements from PowerPoint into Excel for enhanced user experience
 -	Generated actionable insights on sales trends, product performance, and profitability to support data-driven decision-making
-
-## Dashboard
-
-
-
-
 
 ## Dashboard
 
