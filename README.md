@@ -44,6 +44,3 @@ The objective of this project is to transforms raw sales data into meaningful in
 The Sales Data Analysis Dashboard provides a clear view of overall business performance, revealing that revenue generation is strong with a stable profit margin of around 21%. The analysis highlights that a small set of top-performing products and categories contribute significantly to total sales, indicating a concentration of revenue sources.
 At the same time, the dashboard uncovers performance gaps where certain products generate low revenue or lower profit margins despite sales volume. Channel analysis shows a strong reliance on direct sales, while category and product-level insights point toward opportunities for better balance in performance.
 Overall, the dashboard emphasizes the need to focus on high-performing areas while addressing underperforming products and categories, enabling more balanced growth and improved profitability through data-driven decision-making.
-
-
-
